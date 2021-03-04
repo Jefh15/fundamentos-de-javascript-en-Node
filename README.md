@@ -11,9 +11,13 @@ Este es un repaso de Javascript en Node
 Temas del proyecto:
 Se enfoca en los siguientes temas:
 
-1. ¿Por qué es tan popular Node?
-2. ¿Qué es blocking y non-blocking I/O?
-3. Realizar nuestro primer programa de Node
-4. Comprender como es que Node resuelve los procesos síncronos y asíncronos
-5. Comprender el ciclo de vida de un proceso en Node
+1. Instalación de paquetes mediante npm
+2. Reforzamiento de ES6 y ES7
+3. Let vs Var
+4. Template literales
+5. Destructuración
+6. Funciones de flecha
+7. Callbacks y callbacks en cadena
+8. Promesas y promesas en cadena
+9. Async y Await
 ```
